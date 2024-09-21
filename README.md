@@ -24,7 +24,7 @@ Una aplicación interactiva que permite a los usuarios explorar destinos turíst
 
 Puedes probar la aplicación en vivo a través del siguiente enlace de GitHub Pages:
 
-[**Aplicación de Destinos en Vivo**](https://tu-enlace-aqui.com)
+[**Aplicación de Destinos en Vivo**](https://jose-macias-code.github.io/Travel-Visit/)
 
 ## 🚀 Uso
 
