@@ -1,46 +1,43 @@
-# 🌍 Aplicación de Destinos
+# 🌍 Destinations Application
 
-Una aplicación interactiva que permite a los usuarios explorar destinos turísticos populares, agregar productos al carrito, y realizar pagos de manera sencilla. La aplicación está construida con HTML, CSS y JavaScript, y utiliza la API de Unsplash para obtener imágenes atractivas.
+An interactive application that allows users to explore popular tourist destinations, add products to the cart, and make payments easily. The application is built with HTML, CSS, and JavaScript, and uses the Unsplash API to retrieve attractive images.
 
-## 🌟 Características
+## 🌟 Features
 
-- **Explorar Destinos:** Los usuarios pueden navegar por una variedad de destinos turísticos, cada uno con su descripción, precio y una imagen representativa. 🌅
-- **Agregar al Carrito:** Los usuarios pueden agregar destinos al carrito con un solo clic. 🛍️
-- **Ver Carrito:** Los productos añadidos se pueden revisar en el carrito, mostrando el total acumulado. 🛒
-- **Vaciar Carrito:** Funcionalidad para eliminar todos los productos del carrito de una vez. 🗑️
-- **Pago Seguro:** Los usuarios pueden completar su compra ingresando los detalles de su tarjeta de crédito. 💳
-- **Persistencia de Datos:** Los datos del carrito se guardan en `localStorage`, manteniéndose incluso después de actualizar la página. 💾
-- **Alertas Interactivas:** Notificaciones de éxito y advertencia al agregar productos o al intentar agregar productos ya existentes en el carrito. 🚨
+- **Explore Destinations:** Users can browse a variety of tourist destinations, each with a description, price, and representative image. 🌅
+- **Add to Cart:** Users can add destinations to the cart with a single click. 🛍️
+- **View Cart:** Added products can be reviewed in the cart, showing the accumulated total. 🛒
+- **Clear Cart:** Functionality to remove all products from the cart at once. 🗑️
+- **Secure Payment:** Users can complete their purchase by entering credit card details. 💳
+- **Data Persistence:** Cart data is saved in `localStorage`, persisting even after page refresh. 💾
+- **Interactive Alerts:** Success and warning notifications when adding products or attempting to add existing products to the cart. 🚨
 
-## 🛠️ Tecnologías Utilizadas
+## 🛠️ Technologies Used
 
-- **HTML**: Estructura de la aplicación.
-- **CSS**: Estilos para el diseño visual, incluyendo un enfoque responsivo.
-- **JavaScript**: Funcionalidad interactiva y manipulación del DOM.
-- **API de Unsplash**: Para obtener imágenes de alta calidad de los destinos.
-- **localStorage**: Para almacenar los datos del carrito localmente.
+- **HTML**: Structure of the application.
+- **CSS**: Styling for the visual design, including a responsive layout.
+- **JavaScript**: Interactive functionality and DOM manipulation.
+- **Unsplash API**: To fetch high-quality images of destinations.
+- **localStorage**: To store cart data locally.
 
-## 🌐 Cómo Probar la Aplicación
+## 🌐 How to Test the Application
 
-Puedes probar la aplicación en vivo a través del siguiente enlace de GitHub Pages:
+You can test the live application via the following GitHub Pages link:
 
-[**Aplicación de Destinos en Vivo**](https://jose-macias-code.github.io/Travel-Visit/)
+[**Live Destinations Application**](https://jose-macias-code.github.io/Travel-Vist/)
 
-## 🚀 Uso
+## 🚀 Usage
 
-1. **Explorar Destinos:** Navega por la lista de destinos disponibles. 🌍
-2. **Agregar Productos:** Haz clic en el botón "Add To Cart" para agregar un destino al carrito. 🛒
-3. **Ver Carrito:** Accede al carrito para ver los destinos añadidos y el total. 🛍️
-4. **Vaciar Carrito:** Haz clic en "Clear Cart" para eliminar todos los productos del carrito. 🗑️
-5. **Completar Pago:** Llena el formulario de pago y haz clic en "Submit" para procesar tu compra. 💳
+1. **Explore Destinations:** Browse through the list of available destinations. 🌍
+2. **Add Products:** Click the "Add To Cart" button to add a destination to the cart. 🛒
+3. **View Cart:** Access the cart to see the added destinations and the total. 🛍️
+4. **Clear Cart:** Click "Clear Cart" to remove all products from the cart. 🗑️
+5. **Complete Payment:** Fill out the payment form and click "Submit" to process your purchase. 💳
 
-## 📥 Instalación
+## 📥 Installation
 
-No es necesaria una instalación específica. Solo necesitas clonar el repositorio y abrir el archivo `index.html` en tu navegador
+No specific installation is required. Simply clone the repository and open the `index.html` file in your browser.
 
-## 📝 Licencia
+## 📝 License
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
-
-
-
+This project is licensed under the MIT License. See the LICENSE file for more details.
