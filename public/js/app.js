@@ -1,4 +1,4 @@
-import config from './config.js';
+import config from '../js/config.js';
 
 const destinations = [
     { name: "Eiffel Tower", country: "France", price: "$250", description: "An iconic symbol of Paris and a breathtaking marvel of intricate architectural engineering and design." },
